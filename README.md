@@ -1,5 +1,4 @@
 # Pause ⏸
-
 > An Android app that makes you think before you scroll.
 
 Pause intercepts any app you choose — Instagram, WhatsApp, YouTube — and asks you one question before you get in:
@@ -11,6 +10,16 @@ You write your reason. Then you decide:
 - **Open anyway** — conscious choice, you're in
 
 No blocking. No timers. No streaks. Just friction.
+
+---
+
+## Screenshots
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/246f93a9-d94b-435b-8338-1a11fbca8aee" width="30%" />
+  <img src="https://github.com/user-attachments/assets/1225178e-91aa-4e5f-a3ee-fe08d9a78172" width="30%" />
+  <img src="https://github.com/user-attachments/assets/f3a636ae-be08-4cb7-b0f1-90f4bb8e4b76" width="30%" />
+</p>
 
 ---
 
@@ -94,7 +103,7 @@ flutter build apk --release
 ## Made by
 
 **Divyansh Khandal**  
-2nd Year BE — AI & Data Science
+2nd Year BE — AI & Data Science  
 [LinkedIn](https://linkedin.com/in/divyansh-khandal-5b8b8b32b) · [GitHub](https://github.com/divyansh999-code)
 
 ---
