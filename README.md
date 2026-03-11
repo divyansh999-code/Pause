@@ -16,15 +16,7 @@ No blocking. No timers. No streaks. Just friction.
 
 ## Demo
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID
-
----
-
-## Screenshots
-
-| Home Screen | Mindful Pause | Insights |
-|---|---|---|
-| ![Home](screenshots/home.jpg) | ![Overlay](screenshots/overlay.jpg) | ![Insights](screenshots/insights.jpg) |
+https://github.com/user-attachments/assets/47429535-5e3c-4b99-be2d-1e4d58bce8b2
 
 ---
 
@@ -73,15 +65,11 @@ android/app/src/main/kotlin/com/antigravity/pause/
 
 ---
 
-## Installation
+## Build from Source
 
-### Download APK
-[Download latest APK](https://drive.google.com/YOUR_LINK_HERE)
-
-### Build from source
 ```bash
-git clone https://github.com/YOUR_USERNAME/pause.git
-cd pause
+git clone https://github.com/divyansh999-code/Pause.git
+cd Pause
 flutter pub get
 flutter build apk --release
 ```
@@ -95,7 +83,7 @@ flutter build apk --release
 
 ## Setup on Device
 
-1. Install APK
+1. Build and install APK
 2. Open Pause
 3. Tap **Mindfulness Service** toggle → enable in Android Accessibility Settings
 4. Tap **+** to add apps you want to monitor
@@ -103,14 +91,10 @@ flutter build apk --release
 
 ---
 
-
-
 ## Made by
 
 **Divyansh Khandal**  
-2nd Year BE — AI & Data Science, M.B.M. Engineering College, Jodhpur  
+2nd Year BE — AI & Data Science
 [LinkedIn](https://linkedin.com/in/divyansh-khandal-5b8b8b32b) · [GitHub](https://github.com/divyansh999-code)
 
 ---
-
-*Built in 2 days. Works on my phone daily.*
